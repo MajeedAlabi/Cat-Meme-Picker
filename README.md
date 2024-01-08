@@ -1,6 +1,6 @@
 # Cat-Meme-Pick
 ## Features
-A fun app for cat and meme lovers.It makes you pick between any emotions and get a meme of a cat in with that enmotion. Built with html, css and vanilla javascript.
+A fun app for cat and meme lovers.It makes you pick between any emotion and get a meme of a cat with that emotion. Built with html, css and vanilla javascript.
 
 ## Limitations
 - The cat data isnt gotten from a server or API, It is hard coded in the data.js file in the code's folder.
